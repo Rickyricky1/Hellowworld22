@@ -1,1 +1,3 @@
-# Hellowworld22
+# maven-project
+
+Simple Maven Project
