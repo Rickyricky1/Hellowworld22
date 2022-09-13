@@ -8,3 +8,4 @@
 <h1> Eric is a WINNER</h1>
 <h1> Eric is a GREAT LEADER</h1>
 <h1> Eric is a SUPER GREAT CHAMPION</h1>
+<h1> Eric is a GOD'S CHOSEN</h1>
