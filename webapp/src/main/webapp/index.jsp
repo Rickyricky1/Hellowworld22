@@ -7,3 +7,4 @@
 <h1> Eric is SUPER COOL</h1>
 <h1> Eric is a WINNER</h1>
 <h1> Eric is a GREAT LEADER</h1>
+<h1> Eric is a SUPER GREAT CHAMPION</h1>
